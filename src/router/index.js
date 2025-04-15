@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import ContactView from '../views/ContactView.vue'
-import GaleryView from '../views/GaleryView.vue'
-import ServiciosView from '../views/ServiciosView.vue'
+import HomeView from '@/views/HomeView.vue'
+import ContactView from '@/views/ContactView.vue'
+import GaleryView from '@/views/GaleryView.vue'
+import ServiciosView from '@/views/ServiciosView.vue'
 
 Vue.use(VueRouter)
 

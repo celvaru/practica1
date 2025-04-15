@@ -5,4 +5,9 @@
         </div>
     </div>
     
-  </template>
+</template>
+<script>
+export default {
+  name: 'ServiciosView'
+}
+</script>
