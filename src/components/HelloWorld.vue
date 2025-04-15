@@ -4,16 +4,16 @@
       <a class="navbar-brand">Mi Negocio</a>
       <ul class="nav justify-content-end">
         <li class="nav-item">
-          <a class="nav-link active text-dark" aria-current="page" href="#">Inicio</a>
+          <b-nav-item class="nav-link text-dark" to="/">Inicio</b-nav-item>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-secondary" href="#">Servicios</a>
+          <b-nav-item class="nav-link text-secondary" to="/services">Servicios</b-nav-item>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-secondary" href="#">Galería</a>
+          <b-nav-item class="nav-link text-secondary" to="/galery">Galería</b-nav-item>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-secondary" href="#">Contacto</a>
+          <b-nav-item class="nav-link text-secondary" to="/contact">Contacto</b-nav-item>
         </li>
       </ul>
     </div>
